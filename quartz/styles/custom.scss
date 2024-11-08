@@ -1,43 +1,43 @@
 @use "./base.scss";
 
-// body,
-// section {
-//     box-shadow: 0px 0px 150px 50px var(--lightgray) inset;
-// }
+body,
+section {
+    box-shadow: 0px 0px 150px 50px var(--lightgray) inset;
+}
 
-// // Suas sobrescrições personalizadas para o botão de busca
-// .search .search-button {
-//     background-color: #fff9f0; // Nova cor de fundo
-//     border: 2px solid #fbb4577e; // Nova cor de borda
+// Suas sobrescrições personalizadas para o botão de busca
+.search .search-button {
+    background-color: #fff9f0; // Nova cor de fundo
+    border: 2px solid #fbb4577e; // Nova cor de borda
 
-//     & svg {
-//         .search-path {
-//             stroke: var(--darkgray); // Cor do ícone
-//         }
-//     }
-// }
+    & svg {
+        .search-path {
+            stroke: var(--darkgray); // Cor do ícone
+        }
+    }
+}
 
-// .sidebar.left {
-//     background-color: #fff6e4;
-//     box-shadow: 0px 0px 40px 10px var(--lightgray) inset, 0px 0px 50px var(--lightgray);
-//     margin-left: 0; // Ajuste a margem esquerda
-//     width: 240px; // Largura da barra lateral
-//     height: 80vh; // Altura de 80% da janela
-//     position: fixed; // Fixa a posição da barra lateral
-//     top: 10vh; // Ajusta o topo da barra para 10% da página
-//     border: 1px solid var(--lightgray); // Borda (opcional)
-//     box-sizing: border-box; // Garante que o padding e borda não aumentem a largura/altura total
-// }
+.sidebar.left {
+    background-color: #fff6e4;
+    box-shadow: 0px 0px 40px 10px var(--lightgray) inset, 0px 0px 50px var(--lightgray);
+    margin-left: 0; // Ajuste a margem esquerda
+    width: 240px; // Largura da barra lateral
+    height: 80vh; // Altura de 80% da janela
+    position: fixed; // Fixa a posição da barra lateral
+    top: 10vh; // Ajusta o topo da barra para 10% da página
+    border: 1px solid var(--lightgray); // Borda (opcional)
+    box-sizing: border-box; // Garante que o padding e borda não aumentem a largura/altura total
+}
 
-// .sidebar.right {
-//     right: 0%;
-//     top: 5vh; // Ajusta o topo da barra para 5% da página
-//     margin-top: 5vh;
-//     margin-bottom: 5vh; // Ajusta o limite inferior da barra para 5% da página
-//     height: 90vh; // Faz a barra lateral da direita ter a altura da página
-// }
+.sidebar.right {
+    right: 0%;
+    top: 5vh; // Ajusta o topo da barra para 5% da página
+    margin-top: 5vh;
+    margin-bottom: 5vh; // Ajusta o limite inferior da barra para 5% da página
+    height: 90vh; // Faz a barra lateral da direita ter a altura da página
+}
 
-// .graph-outer {
-//     box-shadow: 0px 0px 40px 10px var(--lightgray) inset, 0px 0px 50px var(--lightgray);
+.graph-outer {
+    box-shadow: 0px 0px 40px 10px var(--lightgray) inset, 0px 0px 50px var(--lightgray);
 
-// }
+}
