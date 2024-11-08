@@ -7,8 +7,8 @@ section {
 
 // Suas sobrescrições personalizadas para o botão de busca
 .search .search-button {
-    background-color: #fff9f0; // Nova cor de fundo
-    border: 2px solid #fbb4577e; // Nova cor de borda
+    background-color: var(--light); // Nova cor de fundo
+    border: 2px solid var(--lightgray); // Nova cor de borda
 
     & svg {
         .search-path {
