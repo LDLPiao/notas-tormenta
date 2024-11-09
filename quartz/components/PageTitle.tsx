@@ -8,7 +8,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
 
   // Definindo um valor padrão para a URL da imagem
-  const imageUrl = cfg?.imageUrl ?? "/attachments/Home.png"  // Ajuste para o caminho da imagem padrão
+  const imageUrl = cfg?.imageUrl ?? "${window.location.origin}/attachments/Home.png"  // Ajuste para o caminho da imagem padrão
 
   return (
     <h2 class={classNames(displayClass, "page-title")}>
