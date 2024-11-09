@@ -6,7 +6,8 @@ level: "3"
 ---
 # Bio
 Nasceu em Ahlen, criado pela mãe, uma atriz. Cresceu em caravanas artísticas, ambientes muito sociais. Sua magia se manifestou cedo e bruscamente. Devido a um incidente causado por seu surto de magia, teve que fugir e passou por muitos problemas, mas sempre enfrentando tudo com astúcia e inteligência. Entendeu que não há certo ou errado, mas sim a sobrevivência. Aprendeu a usar seus talentos, não só para ficar vivo, mas também para seu benefício geral. Aprendeu a fazer tudo a seu modo, sem se preocupar.
-![[Guilleon Dnevi.png]]
+
+
 ```statblock
 ## Modelo de ficha usado
 layout: Tormenta
@@ -88,3 +89,4 @@ bestiary: true
 player: true
 ```
 
+![[Guilleon Dnevi.png]]
