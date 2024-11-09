@@ -6,11 +6,12 @@ level: "3"
 ---
 
 # Descrição
-Raça, classe, idade
+Minotauro, guerreiro, 20
+%% 
+Características marcantes %%
 
-Características marcantes
-
-Histórico
+Soldado
+Treinado para o combate, serviu em ordens militares. Luta com coragem, técnicas e estratégias que aumentam seu poder de combate
 # Nível
 Guerreiro, nível 3
 
