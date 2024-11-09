@@ -9,5 +9,3 @@ draft: true
 	Hierarquia - existe uma nota pai/filha
 
 Método de organização que vou manter para fazer as notas de eventos e NPCs
-
-<!-- QueryToSerialize: LIST -->

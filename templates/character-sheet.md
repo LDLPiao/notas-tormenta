@@ -1,3 +1,18 @@
+
+# Descrição
+Raça, classe, idade
+
+Características marcantes
+
+Histórico
+# Nível
+<% tp.frontmatter.level %>
+
+# Objetivo pessoal
+
+# História
+
+# Ficha
 ```statblock
 ## Modelo de ficha usado
 layout: Tormenta
@@ -67,3 +82,4 @@ talentos:
 bestiary: false
 player: false
 ```
+![[<% tp.file.title %>.png]]

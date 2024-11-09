@@ -6,11 +6,12 @@ tags:
 <!-- QueryToSerialize: TABLE rows.file.link as file FROM "content/Mundo/Cidades/Malpetrim" GROUP BY tags -->
 <!-- SerializedQuery: TABLE rows.file.link as file FROM "content/Mundo/Cidades/Malpetrim" GROUP BY tags -->
 
-| tags                     | file                                                                                                               |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| tags                     | file                                              |
+| ------------------------ | ------------------------------------------------- |
 | <ul><li>locais</li></ul> | <ul><li>[[Portão sudeste de Malpetrim]]</li></ul> |
-| <ul><li>NPCs</li></ul>   | <ul><li>[[Rufus]]</li></ul>                                             |
+| <ul><li>NPCs</li></ul>   | <ul><li>[[Rufus]]</li></ul>                       |
 <!-- SerializedQuery END -->
+
 [Mapa Interativo](https://watabou.github.io/city-generator?size=59&seed=1056528787&name=Malpetrim&citadel=1&urban_castle=1&plaza=1&temple=1&walls=1&shantytown=1&coast=1&river=1&greens=0&hub=1&sea=1.2)
 
 ![[malpetrim.png|700]]

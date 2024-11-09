@@ -1,22 +1,24 @@
 ## Personagens
-- [[John Doe]]
 
 ## Tarefas atuais
-- Lorem Ipsum
-	- The quick brown fox jumps over the lazy dog
+- Encontrar com Rufus na taverna [[Portão sudeste de Malpetrim | Favo Azedo]]
+	- Descobrir qual o trabalho que ele prometeu para [[Guilleon Dnevi]]
 
 ## Informações importantes
-- Lorem Ipsum
+- 
 
 ## NPCs que podem aparecer
-- [[Fulano]]
-	- Lorem Ipsum
+- [[Rufus]]
 
 ## Regras Importantes
 
 ## Encontros planejados
 
 ## Recap
-> The quick brown fox jumps over the lazy dog
 
 ## Sumário
+
+[[Rufus]] entrou em contato com [[Guilleon Dnevi]] prometendo um trabalho lucrativo para ele.
+
+[[Guilleon Dnevi]] foi atrás de juntar sua equipe para essa missão e, como as informações sobre essa missão eram confidenciais, decidiu por uma equipe especialmente diversa.
+
