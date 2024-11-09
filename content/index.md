@@ -4,8 +4,9 @@ title: Índice
 # Players
 <!-- QueryToSerialize: LIST FROM "content/Players" -->
 <!-- SerializedQuery: LIST FROM "content/Players" -->
-- [[Rysonna Linna]]
-- [[Guilleon Dnevi]]
+- [[content/Players/Guilleon Dnevi.md|Guilleon Dnevi]]
+- [[content/Players/Marcinhus.md|Marcinhus]]
+- [[content/Players/Rysonna Linna.md|Rysonna Linna]]
 <!-- SerializedQuery END -->
 
 # Cidades

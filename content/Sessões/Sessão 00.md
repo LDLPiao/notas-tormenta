@@ -2,7 +2,7 @@
 
 ## Tarefas atuais
 - Encontrar com Rufus na taverna [[Portão sudeste de Malpetrim | Favo Azedo]]
-	- Descobrir qual o trabalho que ele prometeu para [[Guilleon Dnevi]]
+	- Descobrir qual o trabalho que ele prometeu para [[content/Players/Guilleon Dnevi]]
 
 ## Informações importantes
 - 
@@ -18,7 +18,7 @@
 
 ## Sumário
 
-[[Rufus]] entrou em contato com [[Guilleon Dnevi]] prometendo um trabalho lucrativo para ele.
+[[Rufus]] entrou em contato com [[content/Players/Guilleon Dnevi]] prometendo um trabalho lucrativo para ele.
 
-[[Guilleon Dnevi]] foi atrás de juntar sua equipe para essa missão e, como as informações sobre essa missão eram confidenciais, decidiu por uma equipe especialmente diversa.
+[[content/Players/Guilleon Dnevi]] foi atrás de juntar sua equipe para essa missão e, como as informações sobre essa missão eram confidenciais, decidiu por uma equipe especialmente diversa.
 

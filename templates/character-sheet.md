@@ -6,7 +6,7 @@ Características marcantes
 
 Histórico
 # Nível
-<% tp.frontmatter.level %>
+Classe, nível <% tp.frontmatter.level %>
 
 # Objetivo pessoal
 
