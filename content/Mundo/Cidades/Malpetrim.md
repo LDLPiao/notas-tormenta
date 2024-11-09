@@ -3,14 +3,19 @@ regiao: tapista
 tags:
   - cidade
 ---
-```dataview
-TABLE rows.file.link as file FROM "content/Mundo/Cidades/Malpetrim" GROUP BY tags
-```
+<!-- QueryToSerialize: TABLE rows.file.link as file FROM "content/Mundo/Cidades/Malpetrim" GROUP BY tags -->
+<!-- SerializedQuery: TABLE rows.file.link as file FROM "content/Mundo/Cidades/Malpetrim" GROUP BY tags -->
 
+| tags                     | file                                                                                                               |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>locais</li></ul> | <ul><li>[[Portão sudeste de Malpetrim]]</li></ul> |
+| <ul><li>NPCs</li></ul>   | <ul><li>[[Rufus]]</li></ul>                                             |
+<!-- SerializedQuery END -->
 [Mapa Interativo](https://watabou.github.io/city-generator?size=59&seed=1056528787&name=Malpetrim&citadel=1&urban_castle=1&plaza=1&temple=1&walls=1&shantytown=1&coast=1&river=1&greens=0&hub=1&sea=1.2)
+
 ![[malpetrim.png|700]]
 
-a: Circo Thiannate; b: Mercado; c: Portão norte; d: [[Portão sudeste de Malpetrim]]; e: Portão principal; f: Arena dos Heróis; g: Porto de Malpetrim; h: Taverna do macaco empalhado; i: Estalagem da Águia Dourada
+==a: Circo Thiannate; b: Mercado; c: Portão norte; d: [[Portão sudeste de Malpetrim]]; e: Portão principal; f: Arena dos Heróis; g: Porto de Malpetrim; h: Taverna do macaco empalhado; i: Estalagem da Águia Dourada==
 
 
 ```leaflet

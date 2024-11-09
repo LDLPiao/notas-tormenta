@@ -18,7 +18,7 @@ section {
 }
 
 .sidebar.left {
-    background-color: #fff6e4;
+    background-color: var(--darklight);
     box-shadow: 0px 0px 40px 10px var(--lightgray) inset, 0px 0px 50px var(--lightgray);
     margin-left: 0; // Ajuste a margem esquerda
     width: 240px; // Largura da barra lateral
@@ -39,5 +39,58 @@ section {
 
 .graph-outer {
     box-shadow: 0px 0px 40px 10px var(--lightgray) inset, 0px 0px 50px var(--lightgray);
+}
 
+/* Container que envolve a tabela */
+.table-container {
+    display: flex;
+    justify-content: center;
+    /* Centraliza horizontalmente */
+    /* Usa toda a altura da tela */
+}
+
+/* Estilo da Tabela */
+table {
+    width: 80%;
+    /* Ajuste o tamanho da tabela */
+    border-collapse: collapse;
+    /* Remove os espaços entre as células */
+    text-align: left;
+    /* Alinha o texto à esquerda nas células */
+}
+
+th,
+td {
+    color: var(--light);
+    line-height: 0.5;
+    border: 1px solid var(--light);
+    /* Define a borda das células */
+}
+
+th {
+    background-color: var(--secondary);
+}
+
+/* Alternar cores das linhas */
+tr:nth-child(even) {
+    background-color: var(--textHighlight);
+}
+
+tr:nth-child(odd) {
+    background-color: var(--darklight);
+}
+
+/* Efeito hover nas linhas */
+tr:hover {
+    background-color: var(--highlight);
+    /* Cor de fundo ao passar o mouse */
+}
+
+img {
+    display: block;
+    /* Torna a imagem um bloco (por padrão é inline) */
+    margin-left: auto;
+    /* Margem automática à esquerda */
+    margin-right: auto;
+    /* Margem automática à direita */
 }
