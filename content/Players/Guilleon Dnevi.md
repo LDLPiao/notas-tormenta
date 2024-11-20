@@ -3,6 +3,8 @@ hp: "15"
 ac: "14"
 modifier: "2"
 level: "3"
+aliases:
+  - Guilleon
 ---
 # Descrição
 Humano, feiticeiro, 23

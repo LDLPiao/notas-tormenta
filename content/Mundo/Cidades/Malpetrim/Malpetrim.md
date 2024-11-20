@@ -6,8 +6,9 @@ tags:
 <!-- QueryToSerialize: TABLE rows.file.link as file FROM "content/Mundo/Cidades/Malpetrim" GROUP BY tags -->
 <!-- SerializedQuery: TABLE rows.file.link as file FROM "content/Mundo/Cidades/Malpetrim" GROUP BY tags -->
 
-| tags                     | file                                                                                                               |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| tags                     | file                                                                                                                    |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>cidade</li></ul> | <ul><li>[[Malpetrim]]</li></ul>                                          |
 | <ul><li>locais</li></ul> | <ul><li>[[Portão sudeste de Malpetrim]]</li></ul> |
 | <ul><li>NPCs</li></ul>   | <ul><li>[[Rufus]]</li></ul>                                             |
 <!-- SerializedQuery END -->

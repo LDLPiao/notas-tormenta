@@ -4,6 +4,8 @@ hp: "11"
 level: "3"
 modifier: "9"
 pm: "7"
+aliases:
+  - Rysonna
 ---
 # Descrição
 Halfling, Bardo, 38
