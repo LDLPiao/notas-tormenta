@@ -3,10 +3,8 @@ Nessa pasta vamos encontrar os personagens que vocês criaram, os vivos e os mor
 %% Begin Waypoint %%
 - **Ativos**
 	- [[Guilleon Dnevi]]
-	- [[Marcinhus]]
 	- [[Rysonna Linna]]
 - **Inativos**
-	- [[Khalid Abzar]]
 	- [[Lillyhen Nhayle]]
 
 %% End Waypoint %%
