@@ -1,37 +1,40 @@
+---
+tags:
+  - sessões
+---
+
 ## Personagens
-- [[John Doe]]
+- Guilleon Dnevi
+- Rysonna Linna
+- Marcinhus
+- Khalid Abzar
+- Lillyhen Nhaile
 
 ## Tarefas atuais
-- Lorem Ipsum
-	- The quick brown fox jumps over the lazy dog
 
+- [ ] Desvendar o sequestro
+	- [x] Descobrir quem sequestrou o grupo
+	- [ ] Descobrir por que foram sequestrados
+- [ ] Se vingar dos puristas
+	- [x] Descobrir onde estão
+	- [x] Descobrir como chegar até o mandante do sequestro
+		- [x] Descobrir onde está o mandante (Hans)
 ## Informações importantes
-- Lorem Ipsum
-
-## NPCs que podem aparecer
-- [[Fulano]]
-	- Lorem Ipsum
-
-## Regras Importantes
-
-## Encontros planejados
-
+- A cidade em que estão é Smokestone
+	- Cidade dos ladrões e bucaneiros
+- Os puristas estão roubando artefatos mágicos e sequestrando conjuradores
+## NPCs
+- Crianças da fazenda
+- Toquinho
+	- Anão de voz fanha que trabalha como carpinteiro
 ## Recap
->O grupo aceitou a missão de reconhecimento passada por [[Rufus]]
->- Se infiltrar na base de um grupo militarizado inimigo
->	- [[Rufus]] acreditava se tratar de um grupo reacionário extremista de Valkaria
-> 
->Antes mesmo de chegarem ao local de início da missão o grupo foi atacado por uma magia de sono poderosa o suficiente para que nem mesmo pudessem reagir.
-> 
->Acordaram em um local escuro e úmido, estavam acorrentados às paredes e [[Rufus]] estava morto - foi executado, aparentemente, um bom tempo antes de acordarem.
-> 
->O grupo fez um plano para enganar os guardas quando perceberam que a força bruta não seria capaz de salvar todos eles.
-> 
->[[Khalid Abzar]] decidiu atacar um dos guardas que estava levando [[Guilleon Dnevi|Guilleon]] para fora da cela e iniciou um combate.
->- [[Khalid Abzar]] quase morreu no primeiro golpe
-> 
->O grupo saiu vitorioso do combate na cela e conseguiu fugir, depois de mais um combate e muitas danças de cura da [[Rysonna Linna|Rysonna]] eles conseguiram interrogar uma soldado. Com isso descobriram que os seus captores são de um destacamento purista e que eles possuem planos maiores para Malpetrim e para as outras cidades da região que hoje pertence ao reino Tapista
-> 
->Quando saíram do seu cativeiro se encontraram em uma grande fazenda abandonada, em uma região desconhecida...
+![[Sessão 01#Sessão 01]]
+## Sessão 02
+O grupo conversou com algumas crianças que encontraram escondidas na fazenda em que estavam presos. Elas não sabiam o que estava acontecendo exatamente, mas faziam pelo dinheiro que os puristas pagavam para elas.
 
-## Sumário
+Na cidade de Smokestone o grupo se dividiu para encontrar informações sobre a situação em que estão.
+- A cidade aparentemente tem recebido a visita de alguns contrabandistas que trabalham recuperando espólios mágicos.
+
+Basicamente o Marcinhus sequestrou o anão carpinteiro - Toquinho - com o poder da intimidação.
+
+Guilleon escondeu a espada do Khalid depois de ter escondido para andar pela cidade e convenceu o Khalid a voar de volta para Smokestone no fim do dia para procurar sua Katana.

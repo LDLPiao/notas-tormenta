@@ -1,3 +1,8 @@
+---
+tags:
+  - sessões
+---
+
 ## Personagens
 - [[John Doe]]
 
